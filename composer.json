@@ -1,0 +1,14 @@
+{
+  "name": "macasso/ws-scss",
+  "description": "Authenticates users based on IP address settings",
+  "type": "typo3-cms-extension",
+  "require": {
+      "typo3/cms": ">=6.2.1,<=8.5.99",
+      "leafo/scssphp": "0.6.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "WapplerSystems\\WsScss\\": "Classes"
+    }
+  }
+}
