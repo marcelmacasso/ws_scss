@@ -16,5 +16,3 @@ if (!is_array($TYPO3_CONF_VARS['SYS']['caching']['cacheConfigurations']['ws_scss
 			),
 	);
 }
-
-?> 
